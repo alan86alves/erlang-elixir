@@ -21,6 +21,7 @@
 **Guru-SP 39: Do Ruby para o Elixir. E agora? por Renan Ranelli**
 - [x] https://www.youtube.com/watch?v=dQPGk6h59zs **(58m:46s)**
 
+**Processes**
 - [x] https://elixir-lang.org/getting-started/processes.html#spawn
 - [x] https://eddwardo.github.io/elixir/2015/10/22/elixir-pingpong-table/
 

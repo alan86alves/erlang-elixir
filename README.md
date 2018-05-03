@@ -3,6 +3,9 @@
 #### The Free Lunch Is Over: A Fundamental Turn Toward Concurrency in Software
 
 - [x] http://www.gotw.ca/publications/concurrency-ddj.htm
+- [x] https://en.wikipedia.org/wiki/Herb_Sutter
+- [x] https://www.slideshare.net/Muhammad_Rizwan/the-free-lunch-is-over-43055538
+- [x] https://softwareengineering.stackexchange.com/questions/212916/is-the-free-lunch-over
 
 #### Concorrência (e Elixir): o que isso muda pra você? por George Guimarães - Rupy Campinas 2016
 
@@ -30,13 +33,7 @@
 - [x] https://elixir-lang.org/getting-started/processes.html#spawn
 - [x] https://eddwardo.github.io/elixir/2015/10/22/elixir-pingpong-table/
 
-# The free lunch is over
 
-## Ref
-
-- 
-- https://en.wikipedia.org/wiki/Herb_Sutter
-- https://www.slideshare.net/Muhammad_Rizwan/the-free-lunch-is-over-43055538
 - https://softwareengineering.stackexchange.com/questions/212916/is-the-free-lunch-over
 
 # The actor model

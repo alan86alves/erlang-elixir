@@ -1,6 +1,6 @@
 # Guide
 
-## The Free Lunch Is Over: A Fundamental Turn Toward Concurrency in Software
+#### The Free Lunch Is Over: A Fundamental Turn Toward Concurrency in Software
 - [x] http://www.gotw.ca/publications/concurrency-ddj.htm
 
 ## Concorrência (e Elixir): o que isso muda pra você? por George Guimarães - Rupy Campinas 2016

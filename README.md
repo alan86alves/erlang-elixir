@@ -3,23 +3,23 @@
 #### The Free Lunch Is Over: A Fundamental Turn Toward Concurrency in Software
 - [x] http://www.gotw.ca/publications/concurrency-ddj.htm
 
-## Concorrência (e Elixir): o que isso muda pra você? por George Guimarães - Rupy Campinas 2016
+#### Concorrência (e Elixir): o que isso muda pra você? por George Guimarães - Rupy Campinas 2016
 - [x] https://www.youtube.com/watch?v=MeCfWtMSWTE **(55m:00)**
 
-**Existe vida além do OO por Renan Ranelli - DevInSantos 2015**
+#### Existe vida além do OO por Renan Ranelli - DevInSantos 2015
 - [x] https://www.youtube.com/watch?v=njAMVB02Ag0 **(52m:12s)**
 
-**The Elixir of Life por Fabio Akita - DevInSantos 2015**
+#### The Elixir of Life por Fabio Akita - DevInSantos 2015
 - [x] https://www.youtube.com/watch?v=8Ng6TfAj7Sk **(1h:00m)**
 
-**Guru-SP 39: Do Ruby para o Elixir. E agora? por Renan Ranelli**
+#### Guru-SP 39: Do Ruby para o Elixir. E agora? por Renan Ranelli
 - [x] https://www.youtube.com/watch?v=dQPGk6h59zs **(58m:46s)**
 
-**Introduçao a Programaçao Funcional em Elixir**
+#### Introduçao a Programaçao Funcional em Elixir
 - [x] https://www.youtube.com/watch?v=dqg1lgYERHY **(23m:54s)**
 - [x] https://www.youtube.com/watch?v=7eYA8c8yABU **(3h:39m)**
 
-**Processes**
+#### Processes
 - [x] https://elixir-lang.org/getting-started/processes.html#spawn
 - [x] https://eddwardo.github.io/elixir/2015/10/22/elixir-pingpong-table/
 

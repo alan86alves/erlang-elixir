@@ -7,7 +7,7 @@
 - [x] https://www.slideshare.net/Muhammad_Rizwan/the-free-lunch-is-over-43055538
 - [x] https://softwareengineering.stackexchange.com/questions/212916/is-the-free-lunch-over
 
-## The actor model
+## The Actor Model
 
 - [x] https://en.wikipedia.org/wiki/Actor_model
 - [x] https://en.wikipedia.org/wiki/Carl_Hewitt
@@ -17,29 +17,23 @@
 
 ## Erlang
 
-- Foi desenvolvida pela Ericson em 1986.
-- Foi criada para resolver o problema de telefonia. 
-- Possui uma VM poderosa a BEAM.
-- The name "Erlang", attributed to Bjarne Däcker, has been presumed by those working on the telephony switches (for whom the language was designed) to be a reference to Danish mathematician and engineer Agner Krarup Erlang as well as a syllabic abbreviation of "Ericsson Language"
-- Foi construíada para manter a disponibilidade de 99,9999999%
+> Erlang, foi desenvolvida pela Ericson em 1986, o objetivo era resolver o problema de telefonia da época. Possui uma VM chamada BEAM que é extratamente poderosa. Ela foi construida para garantir uma disponibilidade de 99,9999999%. O nome Erlang faz uma referência a "Ericsson Language". Ela foi construi
 
-----
+> Joe Armstrong remarked in an interview with Rackspace in 2013: “If Java is 'write once, run anywhere', then Erlang is 'write once, run forever'.”[14]
 
-Erlang Worldview
-The Erlang view of the world, as Joe Armstrong, co-inventor of Erlang, summarized in his PhD thesis:[13]
+> The Erlang view of the world, as Joe Armstrong, co-inventor of Erlang, summarized in his PhD thesis:[13]
 
-Everything is a process.
-Processes are strongly isolated.
-Process creation and destruction is a lightweight operation.
-Message passing is the only way for processes to interact.
-Processes have unique names.
-If you know the name of a process you can send it a message.
-Processes share no resources.
-Error handling is non-local.
-Processes do what they are supposed to do or fail.
-Joe Armstrong remarked in an interview with Rackspace in 2013: “If Java is 'write once, run anywhere', then Erlang is 'write once, run forever'.”[14]
+* Everything is a process.
+* Processes are strongly isolated.
+* Process creation and destruction is a lightweight operation.
+* Message passing is the only way for processes to interact.
+* Processes have unique names.
+* If you know the name of a process you can send it a message.
+* Processes share no resources.
+* Error handling is non-local.
+* Processes do what they are supposed to do or fail.
 
-
+- [x] https://en.wikipedia.org/wiki/Erlang_(programming_language)
 
 #### Concorrência (e Elixir): o que isso muda pra você? por George Guimarães - Rupy Campinas 2016
 

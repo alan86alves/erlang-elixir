@@ -1,27 +1,18 @@
 # Guide
 
-#### The Free Lunch Is Over: A Fundamental Turn Toward Concurrency in Software
+## The Free Lunch Is Over
 
 - [x] http://www.gotw.ca/publications/concurrency-ddj.htm
 - [x] https://en.wikipedia.org/wiki/Herb_Sutter
 - [x] https://www.slideshare.net/Muhammad_Rizwan/the-free-lunch-is-over-43055538
 - [x] https://softwareengineering.stackexchange.com/questions/212916/is-the-free-lunch-over
 
-#### The actor model
+## The actor model
 
-- [x] http://eddwardo.github.io/elixir/2015/10/22/elixir-pingpong-table/
-- [x] https://medium.com/elixirlabs/visualisation-of-elixir-supervision-tree-strategies-4d4cb8123138
-- [x] https://medium.com/elixirlabs/anatomy-of-an-elixir-process-878030c37166
-- [x] https://en.wikipedia.org/wiki/Carl_Hewitt
 - [x] https://en.wikipedia.org/wiki/Actor_model
-- [x] https://medium.com/elixirlabs/anatomy-of-an-elixir-process-878030c37166
-- [x] https://elixirschool.com/en/lessons/advanced/concurrency/
-- [x] http://www.akitaonrails.com/2015/11/22/observing-processes-in-elixir-the-little-elixir-otp-guidebook
-- [x] https://www.tutorialspoint.com/elixir/elixir_processes.htm
-- [x] http://www.culttt.com/2016/07/11/working-processes-elixir/
-- [x] https://cdn-images-1.medium.com/max/1600/1*9C_glQ0Nf4WIJKsfpnuiYA.png
-- [x] https://www.youtube.com/watch?time_continue=46&v=7erJ1DV_Tlo
+- [x] https://en.wikipedia.org/wiki/Carl_Hewitt
 - [x] https://hal.archives-ouvertes.fr/hal-01163534v7/document
+- [x] https://www.youtube.com/watch?time_continue=46&v=7erJ1DV_Tlo
 - [x] https://www.brianstorti.com/the-actor-model/
 
 #### Concorrência (e Elixir): o que isso muda pra você? por George Guimarães - Rupy Campinas 2016
@@ -47,10 +38,16 @@
 
 #### Processes
 
+- [x] http://eddwardo.github.io/elixir/2015/10/22/elixir-pingpong-table/
 - [x] https://elixir-lang.org/getting-started/processes.html#spawn
 - [x] https://eddwardo.github.io/elixir/2015/10/22/elixir-pingpong-table/
-
-
+- [x] https://medium.com/elixirlabs/visualisation-of-elixir-supervision-tree-strategies-4d4cb8123138
+- [x] https://medium.com/elixirlabs/anatomy-of-an-elixir-process-878030c37166
+- [x] https://elixirschool.com/en/lessons/advanced/concurrency/
+- [x] http://www.akitaonrails.com/2015/11/22/observing-processes-in-elixir-the-little-elixir-otp-guidebook
+- [x] https://www.tutorialspoint.com/elixir/elixir_processes.htm
+- [x] http://www.culttt.com/2016/07/11/working-processes-elixir/
+- [x] https://cdn-images-1.medium.com/max/1600/1*9C_glQ0Nf4WIJKsfpnuiYA.png
 
 # Erlang
 

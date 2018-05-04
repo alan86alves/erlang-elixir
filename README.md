@@ -78,76 +78,36 @@ https://www.youtube.com/watch?v=dQPGk6h59zs (58m:46s)
 
 # Elixir
 
-## Tópicos
+* É uma linguagem Brasileira. :)
 
-- http://images.slideplayer.com/9/2498272/slides/slide_5.jpg
+* Foi desenvolvida pelo brasileiro José Valim, o mesmo é um dos membros do rails core team e co-founder da plataformatec.
 
-- É uma linguagem Brasileira. :)
+* Em 2010 José Valim teve um problema de saúde, LER (leção por esforço repetitivo), então nessa época ele resolveu se dedicar a estudos, já que ele não poderia ficar programando tanto. Pra isso ele resolveu ler o livro Seven Languages in Seven Weeks, no livro tinha as linguages como: Ruby, IO, Prolog, Scala, Erlang, Clojure, Haskell. O que mais chamou anteção dele foi o Elarng, Valim percebeu que os novos desenvolvedores não iram gostar muito da sintaxe do Erlang então decidiu dar uma roupagem nova criando o Elixir trazendo boas ideias do Ruby, Python, C#. Em Janeiro de 2011 tivemos o primeiro commit do Elixir (https://github.com/elixir-lang/elixir/commit/337c3f2d569a42ebd5fcab6fef18c5e012f9be5b). Elixir é uma linguagem dinâmica e funcional, contruida para contruir aplicações escaláveis e manuteníveis.
 
-- Elixir é uma linguagem dinâmica e functional contruida para contruir aplicações escaláveis e manuteníveis.
+* Funcional: Isso siginifica que os dados são imutáveis, isso facilita a concorrência pois ela é tolerante a falhas, pois não existe quebras nos dados.
 
-- Funcional (dados imutáveis)(isso facilita a concorrência pois ela é tolerante a falhas)(pois não existe quebras nos dados)
+* Tolerante a falhas: Como os dados são imutáveis, isso faz com que não exista quebra de dados e caso ocorra algum erro, existem os supervisors que garantem que aquele processo isolado será reiniciado a partir do ponto de quebra.
 
-- Concorrência nativa (processs)(são como thredes menores que se comunicam por mensagem dentro da BEAN)(cada processo não compartilha recursos) 
+* Concorrência nativa, processs/actor model, são como threads menores que se comunicam por mensagem (mailbox) dentro da VM BEAN, cada processo não compartilha recursos pois cada processo tem o seu proprio recurso (http://images.slideplayer.com/9/2498272/slides/slide_5.jpg)
 
-- Tolerante a falhas (Supervisors)(caso aconteça uma falha em um processo o Supervisores garantem que aquele processo isolado irá ser reiniciado)
+* Elixir trouxe mais poder para o Erlang, pois trouxe um conjuto de ferramentas para o desenvolvedor ficar mais produtivo: Mix, Hex (212MI downloads), Iex (Interpretador).
 
-- Foi desenvolvida pelo brasileiro José Valim, ele é um dos membros do rails core team e co-founder da plataformatec.
+* Quem ta usando? 
 
-- Em 2010 Valim teve um problema de saúde LER (leção por esforço repetitivo). Então nessa época ele resolveu se dedicar a estudos, já que ele não poderia ficar programando tanto. Pra isso ele resolveu ler o livro Seven Languages in Seven Weeks, no livro tinha as linguages: Ruby, IO, Prolog, Scala, Erlang, Clojure, Haskell.. o que mais chamou anteção dele foi o Elarng. 
+** https://elixir-companies.com/
 
-- Valim percebeu que os novos desenvolvedores não iram gostar muito da sintaxe do Erlang então decidiu dar uma roupagem nova criando o Elixir trazendo boas ideias do Ruby, Python, C#.. trouxe uma roupagem moderna para o Erlang
+* Comunidades: 
 
-- Então em Janeiro de 2011 tivemos o primeiro commit do Elixir (https://github.com/elixir-lang/elixir/commit/337c3f2d569a42ebd5fcab6fef18c5e012f9be5b)
+  * http://elixir-slackin.herokuapp.com/
+  * https://www.meetup.com/elug_sp/
+  * http://plataformatec.com.br/elixir-radar
 
-- Em Janeiro de 2012 ele fez uma proposta pra Plataformatec sobre se dedicar mais ao elixir 
+* Desvantagens
 
-- Em Maio de 2012 tivemos a primeira versão estavel 0.5
-
-- Atualmente estamos na versão 1.6
-
-- Elixir trouxe mais poder para o Erlang, pois trouxe um conjuto de ferramentas para o desenvolvedor ficar mais produtivo:
-
--- Mix 
-
-```bash
-mix deps              # Lists dependencies and their status
-mix deps.clean        # Deletes the given dependencies' files
-mix deps.compile      # Compiles dependencies
-mix deps.get          # Gets all out of date dependencies
-mix deps.unlock       # Unlocks the given dependencies
-mix deps.update       # Updates the given dependencies
-mix do                # Executes the tasks separated by comma
-mix help              # Prints help information for tasks
-mix local             # Lists local tasks
-mix local.public_keys # Manages public keys
-mix local.rebar       # Installs rebar locally
-mix new               # Creates a new Elixir project
-mix phoenix.new       # Create a new Phoenix v0.13.1 application
-mix profile.fprof     # Profiles the given file or expression with fprof
-mix run               # Runs the given file or expression
-mix test              # Runs a project's tests
-iex -S mix            # Starts IEx and run the default task
-```
-
--- Hex (package manager)(212MI downloads)
--- Iex (Interpretador)
-
-- Quem ta usando? https://elixir-companies.com/
-- Comunidades: 
-
-  - http://elixir-slackin.herokuapp.com/
-  - https://www.meetup.com/elug_sp/
-  - http://plataformatec.com.br/elixir-radar
-
-- Elixir por defaul já trabalha com o conceito de microserver, pois ele já trabalha com o modelo The Actor Model
-
-### Desvantagens
-
-- Muitas libs você vai ter que fazer na mão
-- CPU Intensive: Se você tiver que fazer uma app que tenha muito calculo número não é legal.
-- Ecosistema pequeno
-- Mudança de paradgma
+	* Muitas libs você vai ter que fazer na mão
+	* CPU Intensive: Se você tiver que fazer uma app que tenha muito calculo número não é legal.
+	* Ecosistema pequeno
+	* Mudança de paradigma
 
 ## Ref
 

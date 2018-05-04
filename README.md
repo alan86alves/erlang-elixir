@@ -37,13 +37,42 @@
 
 ## Elixir 
 
-- [x] Concorrência (e Elixir): o que isso muda pra você? por George Guimarães - Rupy Campinas 2016
+* É uma linguagem Brasileira. :)
 
-https://www.youtube.com/watch?v=MeCfWtMSWTE (55m:00)
+* Foi desenvolvida pelo brasileiro José Valim, o mesmo é um dos membros do rails core team e co-founder da plataformatec.
 
-- [x] Existe vida além do OO por Renan Ranelli - DevInSantos 2015 
+* Em 2010 José Valim teve um problema de saúde, LER (leção por esforço repetitivo), então nessa época ele resolveu se dedicar a estudos, já que ele não poderia ficar programando tanto. Pra isso ele resolveu ler o livro Seven Languages in Seven Weeks, no livro tinha as linguages como: Ruby, IO, Prolog, Scala, Erlang, Clojure, Haskell. O que mais chamou anteção dele foi o Elarng, Valim percebeu que os novos desenvolvedores não iram gostar muito da sintaxe do Erlang então decidiu dar uma roupagem nova criando o Elixir trazendo boas ideias do Ruby, Python, C#. Em Janeiro de 2011 tivemos o primeiro commit do Elixir (https://github.com/elixir-lang/elixir/commit/337c3f2d569a42ebd5fcab6fef18c5e012f9be5b). Elixir é uma linguagem dinâmica e funcional, contruida para contruir aplicações escaláveis e manuteníveis.
 
-https://www.youtube.com/watch?v=njAMVB02Ag0 (52m:12s)
+* Funcional: Isso siginifica que os dados são imutáveis, isso facilita a concorrência pois ela é tolerante a falhas, pois não existe quebras nos dados.
+
+* Tolerante a falhas: Como os dados são imutáveis, isso faz com que não exista quebra de dados e caso ocorra algum erro, existem os supervisors que garantem que aquele processo isolado será reiniciado a partir do ponto de quebra.
+
+* Concorrência nativa, processs/actor model, são como threads menores que se comunicam por mensagem (mailbox) dentro da VM BEAN, cada processo não compartilha recursos pois cada processo tem o seu proprio recurso (http://images.slideplayer.com/9/2498272/slides/slide_5.jpg)
+
+* Elixir trouxe mais poder para o Erlang, pois trouxe um conjuto de ferramentas para o desenvolvedor ficar mais produtivo: Mix, Hex (212MI downloads), Iex (Interpretador).
+
+* Quem ta usando? 
+
+** https://elixir-companies.com/
+
+* Comunidades: 
+
+  * http://elixir-slackin.herokuapp.com/
+  * https://www.meetup.com/elug_sp/
+  * http://plataformatec.com.br/elixir-radar
+
+* Desvantagens
+
+	* Muitas libs você vai ter que fazer na mão
+	* CPU Intensive: Se você tiver que fazer uma app que tenha muito calculo número não é legal.
+	* Ecosistema pequeno
+	* Mudança de paradigma
+
+* Talks
+
+** [x] Concorrência (e Elixir): o que isso muda pra você? por George Guimarães - Rupy Campinas 2016 (https://www.youtube.com/watch?v=MeCfWtMSWTE) (55m:00)
+
+** [x] Existe vida além do OO por Renan Ranelli - DevInSantos 2015 (https://www.youtube.com/watch?v=njAMVB02Ag0) (52m:12s)
 
 - [x] The Elixir of Life por Fabio Akita - DevInSantos 2015 
 
@@ -78,36 +107,7 @@ https://www.youtube.com/watch?v=dQPGk6h59zs (58m:46s)
 
 # Elixir
 
-* É uma linguagem Brasileira. :)
 
-* Foi desenvolvida pelo brasileiro José Valim, o mesmo é um dos membros do rails core team e co-founder da plataformatec.
-
-* Em 2010 José Valim teve um problema de saúde, LER (leção por esforço repetitivo), então nessa época ele resolveu se dedicar a estudos, já que ele não poderia ficar programando tanto. Pra isso ele resolveu ler o livro Seven Languages in Seven Weeks, no livro tinha as linguages como: Ruby, IO, Prolog, Scala, Erlang, Clojure, Haskell. O que mais chamou anteção dele foi o Elarng, Valim percebeu que os novos desenvolvedores não iram gostar muito da sintaxe do Erlang então decidiu dar uma roupagem nova criando o Elixir trazendo boas ideias do Ruby, Python, C#. Em Janeiro de 2011 tivemos o primeiro commit do Elixir (https://github.com/elixir-lang/elixir/commit/337c3f2d569a42ebd5fcab6fef18c5e012f9be5b). Elixir é uma linguagem dinâmica e funcional, contruida para contruir aplicações escaláveis e manuteníveis.
-
-* Funcional: Isso siginifica que os dados são imutáveis, isso facilita a concorrência pois ela é tolerante a falhas, pois não existe quebras nos dados.
-
-* Tolerante a falhas: Como os dados são imutáveis, isso faz com que não exista quebra de dados e caso ocorra algum erro, existem os supervisors que garantem que aquele processo isolado será reiniciado a partir do ponto de quebra.
-
-* Concorrência nativa, processs/actor model, são como threads menores que se comunicam por mensagem (mailbox) dentro da VM BEAN, cada processo não compartilha recursos pois cada processo tem o seu proprio recurso (http://images.slideplayer.com/9/2498272/slides/slide_5.jpg)
-
-* Elixir trouxe mais poder para o Erlang, pois trouxe um conjuto de ferramentas para o desenvolvedor ficar mais produtivo: Mix, Hex (212MI downloads), Iex (Interpretador).
-
-* Quem ta usando? 
-
-** https://elixir-companies.com/
-
-* Comunidades: 
-
-  * http://elixir-slackin.herokuapp.com/
-  * https://www.meetup.com/elug_sp/
-  * http://plataformatec.com.br/elixir-radar
-
-* Desvantagens
-
-	* Muitas libs você vai ter que fazer na mão
-	* CPU Intensive: Se você tiver que fazer uma app que tenha muito calculo número não é legal.
-	* Ecosistema pequeno
-	* Mudança de paradigma
 
 ## Ref
 

@@ -15,6 +15,32 @@
 - [x] https://www.youtube.com/watch?time_continue=46&v=7erJ1DV_Tlo
 - [x] https://www.brianstorti.com/the-actor-model/
 
+## Erlang
+
+- Foi desenvolvida pela Ericson em 1986.
+- Foi criada para resolver o problema de telefonia. 
+- Possui uma VM poderosa a BEAM.
+- The name "Erlang", attributed to Bjarne Däcker, has been presumed by those working on the telephony switches (for whom the language was designed) to be a reference to Danish mathematician and engineer Agner Krarup Erlang as well as a syllabic abbreviation of "Ericsson Language"
+- Foi construíada para manter a disponibilidade de 99,9999999%
+
+----
+
+Erlang Worldview
+The Erlang view of the world, as Joe Armstrong, co-inventor of Erlang, summarized in his PhD thesis:[13]
+
+Everything is a process.
+Processes are strongly isolated.
+Process creation and destruction is a lightweight operation.
+Message passing is the only way for processes to interact.
+Processes have unique names.
+If you know the name of a process you can send it a message.
+Processes share no resources.
+Error handling is non-local.
+Processes do what they are supposed to do or fail.
+Joe Armstrong remarked in an interview with Rackspace in 2013: “If Java is 'write once, run anywhere', then Erlang is 'write once, run forever'.”[14]
+
+
+
 #### Concorrência (e Elixir): o que isso muda pra você? por George Guimarães - Rupy Campinas 2016
 
 - [x] https://www.youtube.com/watch?v=MeCfWtMSWTE (55m:00)
@@ -49,35 +75,7 @@
 - [x] http://www.culttt.com/2016/07/11/working-processes-elixir/
 - [x] https://cdn-images-1.medium.com/max/1600/1*9C_glQ0Nf4WIJKsfpnuiYA.png
 
-# Erlang
 
-## Tópicos
-
-- Foi desenvolvida pela Ericson em 1986.
-- Foi criada para resolver o problema de telefonia. 
-- Possui uma VM poderosa a BEAM.
-- The name "Erlang", attributed to Bjarne Däcker, has been presumed by those working on the telephony switches (for whom the language was designed) to be a reference to Danish mathematician and engineer Agner Krarup Erlang as well as a syllabic abbreviation of "Ericsson Language"
-- Foi construíada para manter a disponibilidade de 99,9999999%
-
-### Concorrência/Paralelismo
-
-- http://www.gotw.ca/publications/concurrency-ddj.htm
-
-----
-
-Erlang Worldview
-The Erlang view of the world, as Joe Armstrong, co-inventor of Erlang, summarized in his PhD thesis:[13]
-
-Everything is a process.
-Processes are strongly isolated.
-Process creation and destruction is a lightweight operation.
-Message passing is the only way for processes to interact.
-Processes have unique names.
-If you know the name of a process you can send it a message.
-Processes share no resources.
-Error handling is non-local.
-Processes do what they are supposed to do or fail.
-Joe Armstrong remarked in an interview with Rackspace in 2013: “If Java is 'write once, run anywhere', then Erlang is 'write once, run forever'.”[14]
 
 ## Ref
 

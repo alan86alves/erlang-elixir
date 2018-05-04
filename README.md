@@ -17,11 +17,11 @@
 
 ## Erlang
 
-> Erlang, foi desenvolvida pela Ericson em 1986, o objetivo era resolver o problema de telefonia da época. Possui uma VM chamada BEAM que é extratamente poderosa. Ela foi construida para garantir uma disponibilidade de 99,9999999%. O nome Erlang faz uma referência a "Ericsson Language". Ela foi construi
+> Erlang, foi desenvolvida pela Ericson em 1986, o objetivo era resolver o problema de telefonia da época. Possui uma VM chamada BEAM que é extratamente poderosa. Ela foi construida para garantir uma disponibilidade de 99,9999999%. O nome Erlang faz uma referência a "Ericsson Language".
 
 > Joe Armstrong remarked in an interview with Rackspace in 2013: “If Java is 'write once, run anywhere', then Erlang is 'write once, run forever'.”[14]
 
-> The Erlang view of the world, as Joe Armstrong, co-inventor of Erlang, summarized in his PhD thesis:[13]
+> The Erlang view of the world, as Joe Armstrong, co-inventor of Erlang, summarized in his PhD thesis:
 
 * Everything is a process.
 * Processes are strongly isolated.
@@ -35,9 +35,22 @@
 
 - [x] https://en.wikipedia.org/wiki/Erlang_(programming_language)
 
-#### Concorrência (e Elixir): o que isso muda pra você? por George Guimarães - Rupy Campinas 2016
+## Elixir/Processs (Actor Model)
 
-- [x] https://www.youtube.com/watch?v=MeCfWtMSWTE (55m:00)
+- [x] http://eddwardo.github.io/elixir/2015/10/22/elixir-pingpong-table/
+- [x] https://elixir-lang.org/getting-started/processes.html#spawn
+- [x] https://eddwardo.github.io/elixir/2015/10/22/elixir-pingpong-table/
+- [x] https://medium.com/elixirlabs/visualisation-of-elixir-supervision-tree-strategies-4d4cb8123138
+- [x] https://medium.com/elixirlabs/anatomy-of-an-elixir-process-878030c37166
+- [x] https://elixirschool.com/en/lessons/advanced/concurrency/
+- [x] http://www.akitaonrails.com/2015/11/22/observing-processes-in-elixir-the-little-elixir-otp-guidebook
+- [x] https://www.tutorialspoint.com/elixir/elixir_processes.htm
+- [x] http://www.culttt.com/2016/07/11/working-processes-elixir/
+- [x] https://cdn-images-1.medium.com/max/1600/1*9C_glQ0Nf4WIJKsfpnuiYA.png
+
+## Elixir/Functional Programming
+
+- [x] Concorrência (e Elixir): o que isso muda pra você? por George Guimarães - Rupy Campinas 2016 https://www.youtube.com/watch?v=MeCfWtMSWTE (55m:00)
 
 #### Existe vida além do OO por Renan Ranelli - DevInSantos 2015
 
@@ -51,31 +64,14 @@
 
 - [x] https://www.youtube.com/watch?v=dQPGk6h59zs (58m:46s)
 
-#### Introduçao a Programaçao Funcional em Elixir
+#### Elixir - FP (
 
 - [x] https://www.youtube.com/watch?v=dqg1lgYERHY (23m:54s)
 - [x] https://www.youtube.com/watch?v=7eYA8c8yABU (3h:39m)
 
-#### Processes
-
-- [x] http://eddwardo.github.io/elixir/2015/10/22/elixir-pingpong-table/
-- [x] https://elixir-lang.org/getting-started/processes.html#spawn
-- [x] https://eddwardo.github.io/elixir/2015/10/22/elixir-pingpong-table/
-- [x] https://medium.com/elixirlabs/visualisation-of-elixir-supervision-tree-strategies-4d4cb8123138
-- [x] https://medium.com/elixirlabs/anatomy-of-an-elixir-process-878030c37166
-- [x] https://elixirschool.com/en/lessons/advanced/concurrency/
-- [x] http://www.akitaonrails.com/2015/11/22/observing-processes-in-elixir-the-little-elixir-otp-guidebook
-- [x] https://www.tutorialspoint.com/elixir/elixir_processes.htm
-- [x] http://www.culttt.com/2016/07/11/working-processes-elixir/
-- [x] https://cdn-images-1.medium.com/max/1600/1*9C_glQ0Nf4WIJKsfpnuiYA.png
 
 
 
-## Ref
-
--
-
-# Functional Programming
 
 - Não tem side effect
 

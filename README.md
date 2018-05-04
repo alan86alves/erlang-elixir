@@ -61,7 +61,7 @@
 
 * Quem ta usando? 
 
-** https://elixir-companies.com/
+	* https://elixir-companies.com/
 
 * Comunidades: 
 
@@ -78,17 +78,13 @@
 
 * Talks
 
-** [x] Concorrência (e Elixir): o que isso muda pra você? por George Guimarães - Rupy Campinas 2016 (https://www.youtube.com/watch?v=MeCfWtMSWTE) (55m:00)
+	* [x] Concorrência (e Elixir): o que isso muda pra você? por George Guimarães - Rupy Campinas 2016 (https://www.youtube.com/watch?v=MeCfWtMSWTE) (55m:00)
 
-** [x] Existe vida além do OO por Renan Ranelli - DevInSantos 2015 (https://www.youtube.com/watch?v=njAMVB02Ag0) (52m:12s)
+	* [x] Existe vida além do OO por Renan Ranelli - DevInSantos 2015 (https://www.youtube.com/watch?v=njAMVB02Ag0) (52m:12s)
 
-- [x] The Elixir of Life por Fabio Akita - DevInSantos 2015 
+	* [x] The Elixir of Life por Fabio Akita - DevInSantos 2015 (https://www.youtube.com/watch?v=8Ng6TfAj7Sk) (1h:00m)
 
-https://www.youtube.com/watch?v=8Ng6TfAj7Sk (1h:00m)
-
-- [x] Guru-SP 39: Do Ruby para o Elixir. E agora? por Renan Ranelli 
-
-https://www.youtube.com/watch?v=dQPGk6h59zs (58m:46s)
+	* [x] Guru-SP 39: Do Ruby para o Elixir. E agora? por Renan Ranelli (https://www.youtube.com/watch?v=dQPGk6h59zs)(58m:46s)
 
 ## Elixir/Functional Programming
 

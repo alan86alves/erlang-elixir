@@ -82,15 +82,18 @@
 	
 	* https://www.youtube.com/watch?v=MeCfWtMSWTE) (55m:00)
 
-- [x] Existe vida além do OO por Renan Ranelli - DevInSantos 2015 (https://www.youtube.com/watch?v=njAMVB02Ag0) (52m:12s)
+* Existe vida além do OO por Renan Ranelli - DevInSantos 2015 
 
-- [x] The Elixir of Life por Fabio Akita - DevInSantos 2015 
+	* https://www.youtube.com/watch?v=njAMVB02Ag0 (52m:12s)
 
-https://www.youtube.com/watch?v=8Ng6TfAj7Sk (1h:00m)
+* The Elixir of Life por Fabio Akita - DevInSantos 2015 
 
-- [x] Guru-SP 39: Do Ruby para o Elixir. E agora? por Renan Ranelli 
+	* https://www.youtube.com/watch?v=8Ng6TfAj7Sk (1h:00m)
 
-https://www.youtube.com/watch?v=dQPGk6h59zs (58m:46s)
+* Guru-SP 39: Do Ruby para o Elixir. E agora? por Renan Ranelli 
+
+	* 
+	https://www.youtube.com/watch?v=dQPGk6h59zs (58m:46s)
 
 ## Elixir/Functional Programming
 

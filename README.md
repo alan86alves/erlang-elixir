@@ -78,7 +78,9 @@
 
 ## Elixir/Talks
 
-- [x] Concorrência (e Elixir): o que isso muda pra você? por George Guimarães - Rupy Campinas 2016 (https://www.youtube.com/watch?v=MeCfWtMSWTE) (55m:00)
+* Concorrência (e Elixir): o que isso muda pra você? por George Guimarães - Rupy Campinas 2016 
+	
+	* https://www.youtube.com/watch?v=MeCfWtMSWTE) (55m:00)
 
 - [x] Existe vida além do OO por Renan Ranelli - DevInSantos 2015 (https://www.youtube.com/watch?v=njAMVB02Ag0) (52m:12s)
 

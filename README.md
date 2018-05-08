@@ -92,8 +92,7 @@
 
 * Guru-SP 39: Do Ruby para o Elixir. E agora? por Renan Ranelli 
 
-	* 
-	https://www.youtube.com/watch?v=dQPGk6h59zs (58m:46s)
+	* https://www.youtube.com/watch?v=dQPGk6h59zs (58m:46s)
 
 ## Elixir/Functional Programming
 

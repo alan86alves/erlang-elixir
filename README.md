@@ -113,7 +113,11 @@
 - [x] http://www.culttt.com/2016/07/11/working-processes-elixir/
 - [x] https://cdn-images-1.medium.com/max/1600/1*9C_glQ0Nf4WIJKsfpnuiYA.png
 
-## Elixir/Traning
+# { elixir: ruby }
+
+- http://cloudless.studio/articles/17-elixir-vs-ruby-naming-conventions
+
+## { elixir: Traning }
 
 - https://github.com/benjamintanweihao/the-little-elixir-otp-guidebook-code
 - https://elixir-examples.github.io/

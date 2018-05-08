@@ -96,8 +96,10 @@
 
 ## Elixir/Functional Programming
 
+- [x] https://www.youtube.com/watch?v=GxnbUqPwuKw&t=9s (23m:17s)
 - [x] https://www.youtube.com/watch?v=dqg1lgYERHY (23m:54s)
 - [x] https://www.youtube.com/watch?v=7eYA8c8yABU (3h:39m)
+- https://becoming-functional.com/a-brief-history-of-programming-c13d87b79337
 
 ## Elixir/Processs (Actor Model)
 
@@ -111,28 +113,9 @@
 - [x] http://www.culttt.com/2016/07/11/working-processes-elixir/
 - [x] https://cdn-images-1.medium.com/max/1600/1*9C_glQ0Nf4WIJKsfpnuiYA.png
 
-## Ref
-
-- https://www.youtube.com/watch?v=GxnbUqPwuKw&t=9s
-- https://medium.com/@kenmazaika/why-im-betting-on-elixir-7c8f847b58
-- https://becoming-functional.com/a-brief-history-of-programming-c13d87b79337
-
-# Elixir
 
 
-
-## Ref
-
-- [x] https://www.youtube.com/watch?v=dqg1lgYERHY **(23m:54s)**
-- [x] https://www.youtube.com/watch?v=7eYA8c8yABU **(3h:39m)**
-- [x] https://www.youtube.com/watch?v=MeCfWtMSWTE **(55m:00)**
-- [x] https://www.youtube.com/watch?v=8Ng6TfAj7Sk **(1h:00m)**
-- [x] https://www.youtube.com/watch?v=njAMVB02Ag0 **(52m:12s)**
-- [x] https://www.youtube.com/watch?v=dQPGk6h59zs **(58m:46s)**
-- [x] https://elixir-lang.org/getting-started/processes.html#spawn
-- [x] https://eddwardo.github.io/elixir/2015/10/22/elixir-pingpong-table/
-
-
+####
 
 
 - https://github.com/benjamintanweihao/the-little-elixir-otp-guidebook-code/tree/master/chapter_1

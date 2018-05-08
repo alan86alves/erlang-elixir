@@ -187,13 +187,14 @@
 
 - http://ezgr.net/increasing-security-erlang-ssl-cowboy/
 
+## Elixir/Features/Upload
+
+- http://learningelixir.joekain.com/elixir-arc-with-a-single-module/
+
 ## Elixir/Ruby
 
 - http://cloudless.studio/articles/17-elixir-vs-ruby-naming-conventions
 - https://www.amberbit.com/blog/2016/2/24/how-elixirs-ecto-differs-from-rubys-activerecord/
-## Elixir/Features/Upload
-
-- http://learningelixir.joekain.com/elixir-arc-with-a-single-module/
 
 ## Elixir/Others
 

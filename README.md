@@ -177,7 +177,7 @@
 
 - http://milhouseonsoftware.com/2016/05/08/measuring-your-elixir-application/
 
-## Elixir/Features/Depploy
+## Elixir/Features/Deploy
 
 - http://elviovicosa.com/blog/2016/07/13/deploying-elixir-releases.html
 - https://subvisual.co/blog/posts/137-tutorial-deploying-elixir-applications-with-docker-and-digital-ocean/
@@ -200,13 +200,7 @@
 - https://github.com/h4cc/awesome-elixir
 - https://yos.io/2016/03/26/type-checking-in-elixir/
 
-# Phoenix
-
-## Tópicos
-
--
-
-## Ref
+## Elixir/Framework/Phoenix
 
 - https://hackernoon.com/a-free-introduction-to-elixir-otp-ecto-and-phoenix-228d0e994fc1
 - https://medium.brianemory.com/elixir-phoenix-creating-an-app-part-6-using-the-youtube-api-5ff58082088e

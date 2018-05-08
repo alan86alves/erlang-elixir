@@ -61,23 +61,23 @@
 
 * Quem ta usando? 
 
-	* https://elixir-companies.com/
-	* https://www.netguru.co/blog/10-companies-use-elixir
+	* [x] https://elixir-companies.com/
+	* [x] https://www.netguru.co/blog/10-companies-use-elixir
 
 * Comunidades: 
 
-	* http://elixir-slackin.herokuapp.com/
-	* https://www.meetup.com/elug_sp/
-	* http://plataformatec.com.br/elixir-radar
-	* https://elixirforum.com/
+	* [x] http://elixir-slackin.herokuapp.com/
+	* [x] https://www.meetup.com/elug_sp/
+	* [x] http://plataformatec.com.br/elixir-radar
+	* [x] https://elixirforum.com/
 
 * Jobs: 
 
-	* https://elixir.career/
+	* [x] https://elixir.career/
 
 * Pacotes
 
-	* https://hex.pm/ (212MI downloads)
+	* [x] https://hex.pm/ (212MI downloads)
 
 * Desvantagens
 

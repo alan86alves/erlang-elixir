@@ -113,12 +113,9 @@
 - [x] http://www.culttt.com/2016/07/11/working-processes-elixir/
 - [x] https://cdn-images-1.medium.com/max/1600/1*9C_glQ0Nf4WIJKsfpnuiYA.png
 
+## Elixir/Traning
 
-
-# Outros
-
-
-- https://github.com/benjamintanweihao/the-little-elixir-otp-guidebook-code/tree/master/chapter_1
+- https://github.com/benjamintanweihao/the-little-elixir-otp-guidebook-code
 - https://elixir-examples.github.io/
 - https://elixirschool.com/en/
 - https://trydis.github.io/2016/03/07/elixir-string-calculator/

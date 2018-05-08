@@ -218,6 +218,8 @@
 - https://github.com/octavonce/bigchaindb_ex
 - https://www.youtube.com/watch?v=tB8Nbu_l_NA
 - https://stackoverflow.com/questions/48418461/can-blockchain-be-stored-in-sql-or-even-nosql-database
+- https://www.sitepoint.com/managing-data-storage-with-blockchain-and-bigchaindb/
+- https://medium.com/wearetheledger/bigchaindb-a-hands-on-approach-42e1d3b4e7a
 
 # Storj
 

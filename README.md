@@ -62,12 +62,22 @@
 * Quem ta usando? 
 
 	* https://elixir-companies.com/
+	* https://www.netguru.co/blog/10-companies-use-elixir
 
 * Comunidades: 
 
 	* http://elixir-slackin.herokuapp.com/
 	* https://www.meetup.com/elug_sp/
 	* http://plataformatec.com.br/elixir-radar
+	* https://elixirforum.com/
+
+* Jobs: 
+
+	* https://elixir.career/
+
+* Pacotes
+
+	* https://hex.pm/ (212MI downloads)
 
 * Desvantagens
 
@@ -77,6 +87,18 @@
 	* Mudança de paradigma
 
 ## Elixir/Talks
+
+* PORQUE ELIXIR ?
+
+	* https://www.youtube.com/watch?v=j_QWqs5gL3E 
+
+* Elixir, quem é esse pokemon? - Bruno Volcov
+
+	* https://www.youtube.com/watch?v=aA-XHI-EYcM (29m:50s)
+
+* Castálio Podcast - Episódio 103: Linguagem Elixir com Guilherme Nogueira e Renan Ranelli
+
+	* https://www.youtube.com/watch?v=YSQmIciT0xE (1h:28m)
 
 * Concorrência (e Elixir): o que isso muda pra você? por George Guimarães - Rupy Campinas 2016 
 	
@@ -100,6 +122,7 @@
 - [x] https://www.youtube.com/watch?v=dqg1lgYERHY (23m:54s)
 - [x] https://www.youtube.com/watch?v=7eYA8c8yABU (3h:39m)
 - https://becoming-functional.com/a-brief-history-of-programming-c13d87b79337
+- http://blog.noredink.com/post/142689001488/the-most-object-oriented-language
 
 ## Elixir/Processs (Actor Model)
 
@@ -112,71 +135,70 @@
 - [x] http://www.akitaonrails.com/2015/11/22/observing-processes-in-elixir-the-little-elixir-otp-guidebook
 - [x] http://www.culttt.com/2016/07/11/working-processes-elixir/
 - [x] https://cdn-images-1.medium.com/max/1600/1*9C_glQ0Nf4WIJKsfpnuiYA.png
-
-# { elixir: ruby }
-
-- http://cloudless.studio/articles/17-elixir-vs-ruby-naming-conventions
-
-## { elixir: Traning }
-
-- https://github.com/benjamintanweihao/the-little-elixir-otp-guidebook-code
-- https://elixir-examples.github.io/
-- https://elixirschool.com/en/
-- https://trydis.github.io/2016/03/07/elixir-string-calculator/
-- https://github.com/h4cc/awesome-elixir
-- http://cloudless.studio/articles/17-elixir-vs-ruby-naming-conventions
-- https://elixirforum.com/
-- https://elixir-lang.org/getting-started/mix-otp/introduction-to-mix.html
-- https://cfenollosa.com/blog/the-elixir-of-concurrency.html
-- https://www.monterail.com/blog/2016/elixirconf-2016
-- https://www.amberbit.com/blog/2016/2/24/how-elixirs-ecto-differs-from-rubys-activerecord/
-- https://blog.portatext.com/2016/03/03/why-we-choose-elixir-to-power-our-sms-infrastructure/?utm_content=buffer93ad0&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer
-- http://blog.noredink.com/post/142689001488/the-most-object-oriented-language
-- https://joearms.github.io/published/2016-03-13-Managing-two-million-webservers.html
-- http://blog.plataformatec.com.br/2016/05/beyond-functional-programming-with-elixir-and-erlang/
-- https://www.netguru.co/blog/10-companies-use-elixir
-- https://www.youtube.com/watch?v=aA-XHI-EYcM
-- https://elixir-lang.slack.com/messages/C0JUHGEMB/
-- https://hex.pm/
-- https://hexdocs.pm/iex/IEx.html
-- https://www.meetup.com/elug_sp/members/
-- https://gist.github.com/agustif/2f573557e5d2e4b42ed3b6cc4d285a8b
-- https://www.youtube.com/watch?v=GxnbUqPwuKw
-- https://www.youtube.com/watch?v=j_QWqs5gL3E&t=78s
-- http://learningelixir.joekain.com/elixir-arc-with-a-single-module/
 - http://blog.songsaboutsnow.com/elixir/processes/2016/04/06/intro-to-elixir-processes.html
 - http://www.quentinthomas.com/automated-solutions-blog/2016/3/8/91n5rjioq4u9e6t88hpwlmiomolaqr
 - http://blog.noredink.com/post/141444822213/pubsub-in-30-lines-of-elixir
-- https://www.amberbit.com/blog/2016/5/10/creating-elixir-libraries-as-otp-applications/
-- http://crypt.codemancers.com/posts/2016-01-24-understanding-exit-signals-in-erlang-slash-elixir/
-- https://rockyj.in/2016/06/19/elixir_pi_calc.html
-- http://tech.strofcon.org/2016/04/lets-build-something-elixir-part-3.html
-- http://tech.strofcon.org/2016/04/lets-build-something-elixir-part-4.html
-- http://blog.plataformatec.com.br/2016/04/debugging-techniques-in-elixir-lang/?utm_content=buffer16787&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer
-- http://blog.plataformatec.com.br/2016/04/how-to-trace-elixir-nodes-with-erlyberly/
-- http://plataformatec.com.br/elixir-radar/
-- http://plataformatec.com.br/elixir-radar/weekly-newsletter
-- https://orestis.gr/functional-puzzles-part-1/?utm_campaign=elixir_radar_132&utm_medium=email&utm_source=RD+Station
-- https://medium.com/@DFilipeS/how-i-rented-a-nice-place-to-live-using-elixir-and-a-facebook-messenger-chat-bot-836f79498c5c
+- https://crypt.codemancers.com/posts/2016-01-24-understanding-exit-signals-in-erlang-slash-elixir/
+- https://www.brianstorti.com/process-registry-in-elixir/
+
+## Elixir/Traning
+
+- https://elixir-examples.github.io/
+- https://github.com/benjamintanweihao/the-little-elixir-otp-guidebook-code
+- https://elixirschool.com/en/
+
+## Elixir/Tutorial
+
 - https://m.alphasights.com/simple-web-servers-with-plug-and-cowboy-34f7a174f252
-- http://ezgr.net/increasing-security-erlang-ssl-cowboy/
-- http://www.automatingthefuture.com/blog/2016/3/21/ai-generate-and-test-elixir
-- http://learningelixir.joekain.com/mix-profile/
-- https://keathley.io/2016/04/09/elixir-guard-clauses.html
-- https://yos.io/2016/03/26/type-checking-in-elixir/
+- http://tech.strofcon.org/2016/03/lets-build-elixir-part-1.html
 - https://trydis.github.io/2016/03/07/elixir-string-calculator/
-- https://www.youtube.com/watch?v=YSQmIciT0xE
+- http://trivelop.de/2018/03/26/flow-elixir-using-plug-like-token/
+- https://www.brianstorti.com/getting-started-with-plug-elixir/
+
+## Elixir/Mix
+
+- https://elixir-lang.org/getting-started/mix-otp/introduction-to-mix.html
+
+## Elixir/Hex
+
+- https://yos.io/2016/04/28/writing-and-publishing-elixir-libraries/
+- https://www.amberbit.com/blog/2016/5/10/creating-elixir-libraries-as-otp-applications/
+
+## Elixir/Features/Upload
+
+- http://learningelixir.joekain.com/elixir-arc-with-a-single-module/
+
+## Elixir/Features/Debug
+
+- http://blog.plataformatec.com.br/2016/04/debugging-techniques-in-elixir-lang
+- http://blog.plataformatec.com.br/2016/04/how-to-trace-elixir-nodes-with-erlyberly/
+
+## Elixir/Features/Measuring
+
+- http://milhouseonsoftware.com/2016/05/08/measuring-your-elixir-application/
+
+## Elixir/Features/Depploy
+
 - http://elviovicosa.com/blog/2016/07/13/deploying-elixir-releases.html
-- https://github.com/elixir-lang/elixir/commit/337c3f2d569a42ebd5fcab6fef18c5e012f9be5b
-- https://elixir.career
-- https://rdstation-static.s3.amazonaws.com/cms%2Ffiles%2F7452%2F1518712802Three_Adoption_Stories_of_Adopting_Elixir.pdf?utm_campaign=auto-response_-_chapter_three_adoption_stories&utm_medium=email&utm_source=RD+Station
 - https://subvisual.co/blog/posts/137-tutorial-deploying-elixir-applications-with-docker-and-digital-ocean/
 - https://orestis.gr/live-debugging-an-elixir-memory-process-leak/
-- http://www.anilwadghule.com/2016/09/10/ruby-concurrency-compared.html
-- http://trivelop.de/2018/03/26/flow-elixir-using-plug-like-token/
-- http://milhouseonsoftware.com/2016/05/08/measuring-your-elixir-application/
-- https://www.brianstorti.com/process-registry-in-elixir/
-- https://www.brianstorti.com/getting-started-with-plug-elixir/
+
+## Elixir/Features/Security
+
+- http://ezgr.net/increasing-security-erlang-ssl-cowboy/
+
+## Elixir/Ruby
+
+- http://cloudless.studio/articles/17-elixir-vs-ruby-naming-conventions
+- https://www.amberbit.com/blog/2016/2/24/how-elixirs-ecto-differs-from-rubys-activerecord/
+## Elixir/Features/Upload
+
+- http://learningelixir.joekain.com/elixir-arc-with-a-single-module/
+
+## Elixir/Others
+
+- https://github.com/h4cc/awesome-elixir
+- https://yos.io/2016/03/26/type-checking-in-elixir/
 
 # Phoenix
 

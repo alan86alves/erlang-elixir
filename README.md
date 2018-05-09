@@ -90,31 +90,31 @@
 
 * PORQUE ELIXIR ?
 
-	* https://www.youtube.com/watch?v=j_QWqs5gL3E 
+	* [x] https://www.youtube.com/watch?v=j_QWqs5gL3E 
 
 * Elixir, quem é esse pokemon? - Bruno Volcov
 
-	* https://www.youtube.com/watch?v=aA-XHI-EYcM (29m:50s)
+	* [x] https://www.youtube.com/watch?v=aA-XHI-EYcM (29m:50s)
 
 * Castálio Podcast - Episódio 103: Linguagem Elixir com Guilherme Nogueira e Renan Ranelli
 
-	* https://www.youtube.com/watch?v=YSQmIciT0xE (1h:28m)
+	* [x] https://www.youtube.com/watch?v=YSQmIciT0xE (1h:28m)
 
 * Concorrência (e Elixir): o que isso muda pra você? por George Guimarães - Rupy Campinas 2016 
 	
-	* https://www.youtube.com/watch?v=MeCfWtMSWTE) (55m:00)
+	* [x] https://www.youtube.com/watch?v=MeCfWtMSWTE) (55m:00)
 
 * Existe vida além do OO por Renan Ranelli - DevInSantos 2015 
 
-	* https://www.youtube.com/watch?v=njAMVB02Ag0 (52m:12s)
+	* [x] https://www.youtube.com/watch?v=njAMVB02Ag0 (52m:12s)
 
 * The Elixir of Life por Fabio Akita - DevInSantos 2015 
 
-	* https://www.youtube.com/watch?v=8Ng6TfAj7Sk (1h:00m)
+	* [x] https://www.youtube.com/watch?v=8Ng6TfAj7Sk (1h:00m)
 
 * Guru-SP 39: Do Ruby para o Elixir. E agora? por Renan Ranelli 
 
-	* https://www.youtube.com/watch?v=dQPGk6h59zs (58m:46s)
+	* [x] https://www.youtube.com/watch?v=dQPGk6h59zs (58m:46s)
 
 ## Elixir/Functional Programming
 
@@ -126,19 +126,30 @@
 
 ## Elixir/Processs (Actor Model)
 
+- https://blog.codeship.com/concurrency-in-elixir/
+- https://crypt.codemancers.com/posts/2016-01-24-understanding-exit-signals-in-erlang-slash-elixir/
+- https://www.tutorialspoint.com/elixir/elixir_processes.htm
+- https://medium.com/elixirlabs/anatomy-of-an-elixir-process-878030c37166
+- http://www.akitaonrails.com/2015/11/22/observing-processes-in-elixir-the-little-elixir-otp-guidebook
+- https://medium.com/elixirlabs/visualisation-of-elixir-supervision-tree-strategies-4d4cb8123138
+- https://github.com/krestenkrab/erlubi (Process Visualizer)
+- http://holsee.github.io/elixirconfeu-elixir-procs-in-3d/
+
+### spawn
+
 - [x] https://elixir-lang.org/getting-started/processes.html#spawn
-- [x] https://www.tutorialspoint.com/elixir/elixir_processes.htm
 - [x] http://eddwardo.github.io/elixir/2015/10/22/elixir-pingpong-table/
-- [x] https://medium.com/elixirlabs/visualisation-of-elixir-supervision-tree-strategies-4d4cb8123138
-- [x] https://medium.com/elixirlabs/anatomy-of-an-elixir-process-878030c37166
+
+### agents
+
 - [x] https://elixirschool.com/en/lessons/advanced/concurrency/
-- [x] http://www.akitaonrails.com/2015/11/22/observing-processes-in-elixir-the-little-elixir-otp-guidebook
+
 - [x] http://www.culttt.com/2016/07/11/working-processes-elixir/
 - [x] https://cdn-images-1.medium.com/max/1600/1*9C_glQ0Nf4WIJKsfpnuiYA.png
 - http://blog.songsaboutsnow.com/elixir/processes/2016/04/06/intro-to-elixir-processes.html
 - http://www.quentinthomas.com/automated-solutions-blog/2016/3/8/91n5rjioq4u9e6t88hpwlmiomolaqr
 - http://blog.noredink.com/post/141444822213/pubsub-in-30-lines-of-elixir
-- https://crypt.codemancers.com/posts/2016-01-24-understanding-exit-signals-in-erlang-slash-elixir/
+
 - https://www.brianstorti.com/process-registry-in-elixir/
 
 ## Elixir/Traning

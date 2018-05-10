@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://iwantmyname.com/new/images/about/logo-phoenix-framework.png">
+  <img src="https://raw.githubusercontent.com/phoenixframework/phoenix/master/priv/static/phoenix.png">
 </p>
 
 ## Ref

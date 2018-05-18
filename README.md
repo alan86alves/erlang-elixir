@@ -4,8 +4,8 @@
 
 ## Ref
 
-- https://hackernoon.com/phoenix-application-deployment-with-nanobox-1d2274f061e5
 - https://medium.brianemory.com/elixir-phoenix-creating-an-app-part-1-the-setup-6626264be03
+- https://hackernoon.com/phoenix-application-deployment-with-nanobox-1d2274f061e5
 - https://blog.codeship.com/an-introduction-to-apis-with-phoenix/
 - https://becoming-functional.com/building-a-rest-api-with-phoenix-and-elixir-b12dcec302c5
 - https://medium.com/@fredjourney/how-to-build-a-phoenix-hello-world-rest-api-5fc9e3acf331

@@ -4,7 +4,7 @@
 
 # Install
 
-## Installing with kiex
+## Installing kiex
 
 Please run the following command on your terminal.
 

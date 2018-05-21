@@ -4,27 +4,8 @@
 
 # Install
 
-## Installing kiex
-
-Please run the following command on your terminal.
-
 ```bash
-\curl -sSL https://raw.githubusercontent.com/taylor/kiex/master/install | bash -s
-```
-
-Then you need to add the following line into your shell init file, ~/.bashrc, ~/.bash_profile, ~/.profile, ~/.zshrc, or ~/.zsh_profile.
-
-```
-test -s "$HOME/.kiex/scripts/kiex" && source "$HOME/.kiex/scripts/kiex"
-```
-## Installing elixir with kiex
-
-```bash
-$ kiex list known
-```
-
-```bash
-$ kiex install 1.5.2
+$ mix archive.install https://github.com/phoenixframework/archives/raw/master/phx_new.ez
 ```
 
 ## Ref

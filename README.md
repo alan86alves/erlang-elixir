@@ -9,7 +9,7 @@ $ mix archive.install https://github.com/phoenixframework/archives/raw/master/ph
 ```
 
 ```bash
-$ sudo apt install npm
+$ sudo apt install -y npm inotify-tools
 ```
 
 ## Ref

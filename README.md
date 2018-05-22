@@ -8,6 +8,10 @@
 $ mix archive.install https://github.com/phoenixframework/archives/raw/master/phx_new.ez
 ```
 
+```bash
+sudo apt install npm
+```
+
 ## Ref
 
 - https://medium.brianemory.com/elixir-phoenix-creating-an-app-part-1-the-setup-6626264be03

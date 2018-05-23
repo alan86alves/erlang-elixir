@@ -34,4 +34,5 @@ $ sudo apt install -y npm nodejs inotify-tools
 - https://medium.com/@miguel.coba/building-a-game-with-phoenix-channels-a3e6b390cfcc
 - https://medium.com/@mschae/measuring-your-phoenix-app-d63a77b13bda
 - https://www.cogini.com/blog/best-practices-for-deploying-elixir-apps/
+- https://elixircasts.io/seeding-data-in-phoenix
 

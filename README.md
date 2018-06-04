@@ -8,8 +8,16 @@
 $ mix archive.install https://github.com/phoenixframework/archives/raw/master/phx_new.ez
 ```
 
+**Debian:**
+
 ```bash
 $ sudo apt install -y npm nodejs inotify-tools
+```
+
+**Manjaro:**
+
+```bash
+$ sudo pacman -S --noconfirm npm nodejs inotify-tools
 ```
 
 ## Ref

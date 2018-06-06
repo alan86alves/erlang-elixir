@@ -22,6 +22,17 @@ $ sudo pacman -S --noconfirm npm nodejs inotify-tools
 
 ## Ref
 
+- https://dev.to/lobo_tuerto/building-a-json-api-with-phoenix-13-and-elixir-ooo
+
+
+
+
+
+
+
+
+
+
 - https://blog.codeship.com/an-introduction-to-apis-with-phoenix/
 - https://hackernoon.com/phoenix-application-deployment-with-nanobox-1d2274f061e5
 - https://medium.brianemory.com/elixir-phoenix-creating-an-app-part-1-the-setup-6626264be03

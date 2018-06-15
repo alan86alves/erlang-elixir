@@ -57,21 +57,23 @@ $ sudo pacman -S --noconfirm npm nodejs inotify-tools
 - https://niallburkley.com/blog/changing-primary-keys-in-ecto
 - https://hackernoon.com/a-free-introduction-to-elixir-otp-ecto-and-phoenix-228d0e994fc1
 
-# Seeds
+## Seeds
 
 - https://elixircasts.io/seeding-data-in-phoenix
 
-# Docker
+# Devops
+
+## Docker
 
 - https://pspdfkit.com/blog/2018/how-to-run-your-phoenix-application-with-docker
 
-# Deployment 
+## Deployment 
 
 - https://hackernoon.com/phoenix-application-deployment-with-nanobox-1d2274f061e5
 - https://joaquimadraz.com/guide-to-deploy-an-elixir-phoenix-app-to-aws-ecs
 - https://www.cogini.com/blog/best-practices-for-deploying-elixir-apps/
 
-# Monitoring/Measuring
+## Monitoring/Measuring
 
 - https://medium.com/@mschae/measuring-your-phoenix-app-d63a77b13bda
 
